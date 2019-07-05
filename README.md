@@ -2,4 +2,3 @@
 
 ## HELLO WORLD!
 
-## Test Jira Smart Commits
