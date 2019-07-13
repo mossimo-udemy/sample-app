@@ -1,6 +1,6 @@
 # sample-app
 
-## A simple C program
+## A simple Hello World program
 
 
 
